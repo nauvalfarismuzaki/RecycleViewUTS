@@ -11,4 +11,4 @@ MATA KULIAH     : PEMROGRAMAN MOBILE
 TUGAS INI DIBUAT UNTUK MEMENUHI SYARAT UJIAN TENGAH SEMESTER GENAP MATA KULIAH PEMROGRAMAN MOBILE, BERIKUT HASIL RUNNINGNYA
 
 Running 1!
-!(image_name)[running.jpg]
+![hasil run](https://github.com/nauvalfarismuzaki/RecycleViewUTS/blob/master/running.jpg)
