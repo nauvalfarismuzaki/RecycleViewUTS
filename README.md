@@ -12,3 +12,5 @@ TUGAS INI DIBUAT UNTUK MEMENUHI SYARAT UJIAN TENGAH SEMESTER GENAP MATA KULIAH P
 
 Running 1!
 ![running](running.jpg)<br>
+
+![running2](running2.jpg)<br>
