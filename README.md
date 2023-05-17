@@ -11,4 +11,4 @@
 TUGAS INI DIBUAT UNTUK MEMENUHI SYARAT UJIAN TENGAH SEMESTER GENAP MATA KULIAH PEMROGRAMAN MOBILE, BERIKUT HASIL RUNNINGNYA
 
 Running 1!
-![running.jpg]( {[link gambar](https://github.com/nauvalfarismuzaki/RecycleViewUTS/edit/main/README.md)} )
+![running](running.jpg)<br>
