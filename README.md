@@ -1,7 +1,6 @@
 | # RECYCLEVIEW - UJUAN TENGAH SEMESTER 6 |
-
-| NAMA            | *MOCH. NAUVAL FARIS MUZAKI* |
 | :--- | ---: |
+| NAMA            | *MOCH. NAUVAL FARIS MUZAKI* |
 | NIM             | *312010122* |
 | KELAS           | *TI.20.B1* |
 | MATA KULIAH     | *PEMROGRAMAN MOBILE* | 
