@@ -1,4 +1,4 @@
-| # RECYCLEVIEW - UJUAN TENGAH SEMESTER 6 |
+| RECYCLEVIEW | UJUAN TENGAH SEMESTER 6 |
 | :--- | ---: |
 | NAMA            | *MOCH. NAUVAL FARIS MUZAKI* |
 | NIM             | *312010122* |
