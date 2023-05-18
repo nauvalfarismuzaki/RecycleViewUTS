@@ -9,7 +9,7 @@
 
 ***TUGAS INI DIBUAT UNTUK MEMENUHI SYARAT UJIAN TENGAH SEMESTER GENAP MATA KULIAH PEMROGRAMAN MOBILE, BERIKUT HASIL RUNNINGNYA***
 
-Running 1!
+__Running 1!__
 ![running](running.jpg)<br>
-Running 2!
+__Running 2!__
 ![running2](running2.jpg)<br>
